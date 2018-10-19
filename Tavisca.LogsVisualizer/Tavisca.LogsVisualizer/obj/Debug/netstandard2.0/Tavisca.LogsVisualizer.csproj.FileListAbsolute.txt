@@ -1,0 +1,9 @@
+C:\Users\rgouthaman\Desktop\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer\bin\Debug\netstandard2.0\Tavisca.LogsVisualizer.deps.json
+C:\Users\rgouthaman\Desktop\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer\bin\Debug\netstandard2.0\Tavisca.LogsVisualizer.dll
+C:\Users\rgouthaman\Desktop\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer\bin\Debug\netstandard2.0\Tavisca.LogsVisualizer.pdb
+C:\Users\rgouthaman\Desktop\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer\obj\Debug\netstandard2.0\Tavisca.LogsVisualizer.csprojAssemblyReference.cache
+C:\Users\rgouthaman\Desktop\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer\obj\Debug\netstandard2.0\Tavisca.LogsVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\rgouthaman\Desktop\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer\obj\Debug\netstandard2.0\Tavisca.LogsVisualizer.AssemblyInfoInputs.cache
+C:\Users\rgouthaman\Desktop\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer\obj\Debug\netstandard2.0\Tavisca.LogsVisualizer.AssemblyInfo.cs
+C:\Users\rgouthaman\Desktop\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer\obj\Debug\netstandard2.0\Tavisca.LogsVisualizer.dll
+C:\Users\rgouthaman\Desktop\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer\obj\Debug\netstandard2.0\Tavisca.LogsVisualizer.pdb
